@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/products
+
+###
+GET http://localhost:3000/api/products/available
+
+###
+GET http://localhost:3000/api/products/oficina
+
+###
+GET http://localhost:3000/api/products/min/30/max/100
+
+###
+GET http://localhost:3000/api/products/6384acaaf6b483f2f2888084
